@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.ykoer.examples.hello.ServiceInfoControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.257 s - in de.ykoer.examples.hello.ServiceInfoControllerTest

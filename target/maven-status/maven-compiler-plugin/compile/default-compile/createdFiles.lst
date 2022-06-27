@@ -1,0 +1,7 @@
+de\ykoer\examples\hello\security\CustomAccessTokenConverter.class
+de\ykoer\examples\hello\swagger\SwaggerProperties.class
+de\ykoer\examples\hello\swagger\SwaggerRedirect.class
+de\ykoer\examples\hello\Application.class
+de\ykoer\examples\hello\swagger\SwaggerConfig.class
+de\ykoer\examples\hello\controller\HelloWorldController.class
+de\ykoer\examples\hello\security\ResourceServerConfiguration.class
